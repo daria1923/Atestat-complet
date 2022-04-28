@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.exe
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.deps.json
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.runtimeconfig.json
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.runtimeconfig.dev.json
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.dll
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.pdb
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.Form1.resources
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.AssemblyInfo.cs
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.dll
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.pdb
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.genruntimeconfig.cache
+C:\Users\User\source\repos\Picture puzzle\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.frmRules.resources
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.exe
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.deps.json
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.runtimeconfig.json
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.runtimeconfig.dev.json
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.dll
+E:\ATESTAT\Picture puzzle\bin\Debug\netcoreapp3.1\Picture puzzle.pdb
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.AssemblyReference.cache
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.Form1.resources
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.frmRules.resources
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.GenerateResource.cache
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.AssemblyInfoInputs.cache
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.AssemblyInfo.cs
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.csproj.CoreCompileInputs.cache
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.dll
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.pdb
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture puzzle.genruntimeconfig.cache
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.Form3.resources
+E:\ATESTAT\Picture puzzle\obj\Debug\netcoreapp3.1\Picture_puzzle.Properties.Resources.resources
